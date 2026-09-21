@@ -1,0 +1,19 @@
+{
+  "easy": [
+    "CAT", "DOG", "YES", "NO", "HI", "BYE", "HOT", "ICE", "OWL",
+    "BEE", "CUP", "EGG", "FLY", "GUM", "HAT", "JAM", "KEY", "LOG",
+    "MAP", "NET", "PIG", "RAT", "SUN", "TOP", "VAN", "WAX", "BOX"
+  ],
+  "medium": [
+    "HELP", "LOVE", "DUCK", "FISH", "PLAY", "BOOK", "LAMP", "FROG",
+    "TREE", "BIRD", "CAKE", "DOOR", "FIRE", "GOLD", "HOME", "IRON",
+    "KITE", "LEAF", "MILK", "NAIL", "OPEN", "PARK", "RAIN", "SAND",
+    "TIDE", "UNIT", "VINE", "WIND", "YARN", "ZERO"
+  ],
+  "hard": [
+    "PURPLE", "BRIDGE", "SCHOOL", "MOTHER", "FATHER", "FRIEND",
+    "CASTLE", "DRAGON", "EMPIRE", "FLIGHT", "GARDEN", "HIDDEN",
+    "ISLAND", "KITCHEN", "MIRROR", "NATURE", "ORANGE", "PENCIL",
+    "QUARTZ", "RABBIT", "SILVER", "TRAVEL", "USEFUL", "WINDOW"
+  ]
+}
